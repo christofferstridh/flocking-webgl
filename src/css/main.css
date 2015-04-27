@@ -1,0 +1,18 @@
+body { margin: 0; }
+canvas { width: 100%; height: 100% }
+.settings_overlay{
+  position: absolute;
+  background-color: #FFFFFF;
+  padding: 10px;
+  opacity: 0.7;
+  color: black;
+  width: 20%;
+  height: 90%;
+  overflow: scroll;
+}
+div.ui-slider{
+  margin:20px;
+}
+span.val-span{
+  margin-left: 20px;
+}
